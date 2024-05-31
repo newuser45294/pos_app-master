@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269789286285",
+    "project_id": "pos-app36",
+    "storage_bucket": "pos-app36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269789286285:android:d31128186d4990bff537c4",
+        "android_client_info": {
+          "package_name": "com.example.pos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269789286285-48a87ue2qet5oudojm6m8e6bul9gtbkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbNSlpwrOmxsYrYlNTwa4xz7kucbhlEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269789286285-48a87ue2qet5oudojm6m8e6bul9gtbkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
